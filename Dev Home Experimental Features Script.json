@@ -1,0 +1,4 @@
+    "experimentalFeatures": {
+	  "directMSI": true,
+          "windowsFeature": true
+    },
